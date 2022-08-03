@@ -1,0 +1,3 @@
+module ProjGerenciaEquipes {
+	exports src;
+}
